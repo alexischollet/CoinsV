@@ -13,12 +13,12 @@ div.top div.compte{
 	display: inline-block;
 	width: 18%;
 	border-left: 1px solid black;
-	border-bottom: 1px solid black;
 	text-align: center;
 }
 
 div.top{
 	background-color: #A9E2F3;
+	border-bottom: 1px solid black;
 }
 
 
@@ -101,6 +101,11 @@ p.pgamble{
 	font-size: 20px;
 	text-align: center;
 	background-color: lightpink;
+}
+
+p.bas{
+	font-size: 14px;
+	text-align: center;
 }
 
 
