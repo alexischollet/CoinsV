@@ -1,0 +1,53 @@
+div.top div.titre{
+	display: inline-block;
+	width: 81%;
+	text-align: center;
+}
+
+h3{
+	font-style: italic;
+	text-align: center;
+}
+
+div.top div.compte{
+	display: inline-block;
+	width: 18%;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+div.top{
+	background-color: #A9E2F3;
+}
+
+
+
+
+
+
+
+
+div.main div.left{
+	display: inline-block;
+	width: 10%;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+div.main div.middle{
+	display: inline-block;
+	width: 79%;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+div.main div.right {
+	display: inline-block;
+	width: 10%;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+
