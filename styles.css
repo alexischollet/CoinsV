@@ -1,0 +1,113 @@
+div.top div.titre{
+	display: inline-block;
+	width: 81%;
+	text-align: center;
+}
+
+h3{
+	font-style: italic;
+	text-align: center;
+}
+
+div.top div.compte{
+	display: inline-block;
+	width: 18%;
+	border-left: 1px solid black;
+	text-align: center;
+}
+
+div.top{
+	background-color: #A9E2F3;
+	border-bottom: 1px solid black;
+}
+
+
+
+
+
+
+
+
+div.main div.left{
+	display: inline-block;
+	width: 10%;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+div.main div.middle{
+	display: inline-block;
+	width: 79%;
+	border-bottom: 1px solid black;
+}
+
+div.main div.right {
+	display: inline-block;
+	width: 10%;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+ p.explication{
+	font-size: 19px;
+	text-align: center;
+	background-color: lightgreen;
+}
+
+p.video{
+	font-size: 25px;
+	text-align: center;
+	background-color: lightgrey;
+}
+
+div.main div.middle div.emptyleft{
+	display: inline-block;
+	width: 20%;
+}
+
+div.main div.middle div.concour{
+	display: inline-block;
+	width: 17%;
+	border: 1px solid black;
+}
+
+div.main div.middle div.lot{
+	display: inline-block;
+	width: 20%;
+	border: 1px solid black;
+}
+
+div.main div.middle div.gamble{
+	display: inline-block;
+	width: 20%;
+	border: 1px solid black;
+}
+
+p.pconcour{
+	font-size: 20px;
+	text-align: center;
+	background-color: lightpink;
+}
+
+p.plot{
+	font-size: 20px;
+	text-align: center;
+	background-color: lightpink;
+}
+
+p.pgamble{
+	font-size: 20px;
+	text-align: center;
+	background-color: lightpink;
+}
+
+p.bas{
+	font-size: 14px;
+	text-align: center;
+}
+
+
+
+
